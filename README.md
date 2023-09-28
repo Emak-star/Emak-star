@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emak-star
+- 👋 Hi, I’m Samuel Emakenemi
 - 👀 I’m interested in working anyone on any project
 - 🌱 I’m currently a web developer and software engineer
 - 💞️ I’m looking to collaborate on any project
